@@ -1,8 +1,11 @@
-# EZLearn
-Tarp Project 2020
+## Impact
 
+Significantly improves the learning experience of students and provides data-driven feedback to instructors.
 
-npm install
-choco install ffmpeg
+## About
 
-node server
+An AI-based solution to monitor and measure the attention span of the students in online learning sessions.
+
+## Tech Stack
+
+Python, JavaScript, Node.js, PoseNet, OpenCV and DLib.
